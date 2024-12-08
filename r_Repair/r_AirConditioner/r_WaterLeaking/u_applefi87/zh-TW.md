@@ -62,5 +62,6 @@
 
 ---
 
-### 其他資源  
-- 需要更多幫助？請提交反饋或建議到 [GitHub](https://github.com/yourusername/yourrepo)。  
+### 想一起讓這個主題更完整嗎？有最新的更新嗎？  
+- 在 Reddit 推出文章協作編輯系統之前，我使用 GitHub 作為替代方案，提供完整的 PR（Pull Request）、審查和分叉功能。  
+[GitHub](https://github.com/applefi87/reddit/blob/main/r_Repair/r_AirConditioner/r_WaterLeaking/u_applefi87/zh-TW.md)。  

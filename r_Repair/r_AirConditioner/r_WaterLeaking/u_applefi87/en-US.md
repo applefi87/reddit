@@ -62,5 +62,6 @@ If the above steps don’t solve the problem, consider these alternatives:
 
 ---
 
-### Additional Resources  
-- Need further assistance? Submit feedback or suggest edits on [GitHub](https://github.com/yourusername/yourrepo).  
+### Want to join make this topic more complete? What's newest update? 
+- Before reddit create their article coedit system,I use github as replacement for complete PR, review and fork system.
+[GitHub](https://github.com/applefi87/reddit/blob/main/r_Repair/r_AirConditioner/r_WaterLeaking/u_applefi87/en-US.md).  
